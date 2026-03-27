@@ -1,0 +1,17 @@
+{
+  "APP_NAME": "File Manager Admin",
+  "APP_FLAVOR": "admin",
+  "IS_ADMIN_BUILD": true,
+  "USERS": [
+    {
+      "email": "admin@teste.com",
+      "password": "123456",
+      "is_admin": true
+    },
+    {
+      "email": "user@teste.com",
+      "password": "123456",
+      "is_admin": false
+    }
+  ]
+}
